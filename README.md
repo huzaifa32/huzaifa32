@@ -71,15 +71,6 @@ C++ weighted directed graph modeling flight networks, computing optimal routes b
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" alt="Huzaifa's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=huzaifa32&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa32&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
 I'm open to software engineering roles and interesting projects, especially in fullstack, DevOps, and security-focused work. The best ways to reach me are [LinkedIn](https://linkedin.com/in/SHNabeel) or [email](mailto:shn3501@gmail.com).
