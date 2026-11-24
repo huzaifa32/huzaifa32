@@ -1,4 +1,4 @@
-# Huzaifa Nabeel
+# Syed Huzaifa Nabeel
 
 Java full stack developer in the Dallas–Fort Worth area. I graduated from UT Dallas in December 2025 with a B.S. in Software Engineering and I'm currently going through Revature's full stack program.
 
