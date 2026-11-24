@@ -2,7 +2,7 @@
 
 Java full stack developer in the Dallas–Fort Worth area. I graduated from UT Dallas in December 2025 with a B.S. in Software Engineering and I'm currently going through Revature's full stack program.
 
-My day-to-day stack is Spring Boot, Angular, and PostgreSQL. I also like the infrastructure side of things, which is why there's a Kubernetes cluster running in my house.
+My day-to-day stack is Spring Boot, Angular, and PostgreSQL. I also like the infrastructure side of things and i'm currently learning by building a Homelab Kubernetes cluster
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SHNabeel-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/SHNabeel)
 [![Email](https://img.shields.io/badge/Email-shn3501@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shn3501@gmail.com)
